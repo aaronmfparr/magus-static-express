@@ -10,4 +10,4 @@ The public facing webserver should be configured to treat this express app as it
 With that all done, an old school HTML site sitting in `public_html` can be served by this app.
 
 ## Why?
-I created this project as a resource for people following the instructions on my blog post [Using Git and PM2 to Manage a Node App](https://blog.houseofthemagus.com/house-infrastructure).
+I created this project as a resource for people reading [Using Git and PM2 to Manage a Node App](https://blog.houseofthemagus.com/house-infrastructure).
