@@ -1,0 +1,17 @@
+{
+  "name": "magus-static-express",
+  "version": "1.0.0",
+  "description": "An example node project serving static html as part of https://blog.houseofthemagus.com/house-infrastructure/",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && ./index.js"
+  },
+  "author": {
+    "name": "Aaron Parr",
+    "url": "https://houseofthemagus.com/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
